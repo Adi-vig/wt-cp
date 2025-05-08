@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Adi-vig/backend-wt-cp.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Adi-vig/frontend-wt-cp.git
